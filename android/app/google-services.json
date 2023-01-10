@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364941827909",
+    "project_id": "vendor-shop-ae50a",
+    "storage_bucket": "vendor-shop-ae50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364941827909:android:d47df97609641729bd682c",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.multi_grocery_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364941827909-rsudkfgul68ifinfl3ccfbkhkihebdcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjK223BmZa873WOUr4rAJmkThQNHDom8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364941827909-rsudkfgul68ifinfl3ccfbkhkihebdcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
